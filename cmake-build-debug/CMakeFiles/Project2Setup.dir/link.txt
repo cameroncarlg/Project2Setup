@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Project2Setup.dir/main.cpp.o CMakeFiles/Project2Setup.dir/ArrayVector.cpp.o  -o Project2Setup 

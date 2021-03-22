@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cameron/CLionProjects/Project2Setup/ArrayVector.cpp
+ArrayVector.h
+/home/cameron/CLionProjects/Project2Setup/ArrayVector.h
+algorithm
+-
+iostream
+-
+
+/home/cameron/CLionProjects/Project2Setup/ArrayVector.h
+cstdlib
+-
+
+/home/cameron/CLionProjects/Project2Setup/main.cpp
+iostream
+-
+fstream
+-
+random
+-
+ArrayVector.h
+/home/cameron/CLionProjects/Project2Setup/ArrayVector.h
+string
+-
+
